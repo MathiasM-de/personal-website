@@ -18,27 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Business Unit Head for Innovation and new Customers"
+  company = "digatus it Consulting"
+  company_url = "www.digatus.de"
+  location = "Munich"
+  date_start = "2016-03-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Development of Strategy and Vision in IT
+  * consultation for digitalisation
+  * Workshop and Events for Cloud journey
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "IT Consultant Office365 solution"
+  company = "external for Nokia"
+  company_url = "www.nokia.com"
+  location = "Munich"
+  date_start = "2015-05-01"
+  date_end = ""
+  description = """Design and support in Office 365 initial Rollout, Mergers and split of in Office 365 parts of Office 365 and Service Improvement Projects"""
+
+
+
+[[experience]]
+  title = "IT Consultant for Virtual Client and Modern Mobile Device Management solution "
+  company = "external for Nokia"
+  company_url = "www.nokia.com"
+  location = "Munich"
+  date_start = "2012-05-01"
+  date_end = "2015-04-30"
+  description = """Design and deployment of Citrix based Virtual PC solution for 3k users. Establish a MDM and MAM solution for business leaders"""
+
+
+[[experience]]
+  title = "IT Project Manager"
+  company = "external for Nokia-Siemens-Networks"
+  company_url = "www.nokia.com"
+  location = "Munich"
+  date_start = "2007-01-01"
+  date_end = "2012-04-30"
+  description = """Managing E-Mail Migration Project inside joint venture program, centralize more that 50k mailboxes. Consolidation and Process improvent of post migration actions."""
 
 +++

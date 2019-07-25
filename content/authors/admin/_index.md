@@ -10,50 +10,43 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Consult of Innovatiove IT Solutions
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: digatus it consulting GmbH
+  url: "www.digatus.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Let me entertain you
+bio: I am committed to designing new and modern solutions for customers to make the daily work life as pleasant as possible.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Modern Collaboration
+- Vision for the workplace of the future
+- User Adoption and cultural change for due to digitalization
+- Design Thinking as a new chance for IT
+- Office365 Implementation and Best Practice
+- Vision and Strategy Support within the Cloud Journey
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Desing Thinking 
+    institution: 10daysofDesign
+    year: 2019
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mathiasm-de
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mathias-müller-80047133/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,15 +54,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mathias.mueller@digatus.de"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+As an experienced consultant, he thinks in large corporate structures and has extensive project experience. He is intensively involved with new, innovative technologies and knows exactly what problems and challenges these entail for companies and their employees. His distinctive spirit of innovation and his strong persuasiveness make him the ideal contact and coach for forward-looking projects.
