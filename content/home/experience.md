@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Business Unit Head for Innovation and new Customers"
-  company = "digatus it Consulting"
+  title = "Business unit head for innovation and new customers"
+  company = "digatus it consulting GmbH"
   company_url = "www.digatus.de"
   location = "Munich"
   date_start = "2016-03-01"
@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Development of Strategy and Vision in IT
-  * consultation for digitalisation
-  * Workshop and Events for Cloud journey
+  * Advice on digitization topics and challenges
+  * Develop Workshop and Events on Cloud Innovation Journey
   """
 
 [[experience]]
@@ -60,6 +60,6 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2007-01-01"
   date_end = "2012-04-30"
-  description = """Managing E-Mail Migration Project inside joint venture program, centralize more that 50k mailboxes. Consolidation and Process improvent of post migration actions."""
+  description = """Manage an email migration project within a joint venture program to centralize more than 50,000 mailboxes. Further consolidation and improvement of processes and system after migration."""
 
 +++

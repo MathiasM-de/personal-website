@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "microsoft"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Microsoft Office365 & Azure"
+  description = "Expert in Identity Management, Security and Communication Services"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "users"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Design Thinking for IT"
+  description = "Organizer and moderation of events to better understand problems and to find solutions."  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "project-diagram"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Projectmanagement"
+  description = "Senior Project/program Manager for complex Project including multi provider cases"
 
 +++
